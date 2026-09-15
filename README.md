@@ -36,21 +36,8 @@
 
 ---
 
-## 🌟 Featured Projects
-
-🔹 **[Drone Mapping SaaS](#)** — Connecting drone professionals with solar energy companies for efficient roof mapping.
-
-🔹 **[Traffic Management System](#)** — Smart traffic light control based on traffic flow and weather conditions.
-
-🔹 **[Product Rental Platform](#)** — Marketplace for users to rent products from others.
-
----
-
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ramos-dev/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcosramos.dev@gmail.com)
 
----
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_
 
