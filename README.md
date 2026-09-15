@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Marcos Ramos!
 
-💻 **Fullstack Developer | React | Next.js | Node.js | Astro | Tailwind Css | Java Spring Boot**
+💻 **Fullstack Developer | React | Next.js | Astro | HONO | Node.js |*
 
 🚀 Passionate about building scalable web applications and innovative solutions!
 
