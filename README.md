@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Analysis and Systems Development**, graduating in 3 months.
+- 🎓 **Analysis and Systems Development**
 - 🌱 Currently diving deeper into **Next Js and Astro**
 - 💡 Always exploring new technologies and best practices.
 - 🌐 Passionate for building SAAS solutions
